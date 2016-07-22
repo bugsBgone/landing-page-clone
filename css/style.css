@@ -105,6 +105,9 @@ button{
     margin: 1.625rem 0 3.125rem;
     font-weight: 300;
 }
+.cases .devices {
+    list-style: none;
+}
 .cases .devices > li {
     width: 33.3333333%;
     float: left;
